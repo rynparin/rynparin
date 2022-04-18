@@ -1,4 +1,4 @@
-### Hi there, 👋  I'm Parin
+## Hi there, 👋  I'm Parin
 
 ## My activities
 
