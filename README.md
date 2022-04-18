@@ -1,5 +1,7 @@
 ## Hi there, 👋  I'm Parin
 
+- 📚 I'm a sophomore studying Computer Engineering at the Chulalongkorn University.
+
 ## My activities
 
 <a href="https://github.com/rynparin">
