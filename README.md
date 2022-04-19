@@ -1,14 +1,17 @@
-## Hi there, 👋  I'm Parin
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=40&duration=3000&color=9645F3&center=true&vCenter=true&width=800&height=200&lines=Heyyy!+I'm+Parin+%3C3">
+</p>
 
 - 📚 I'm a sophomore studying Computer Engineering at the Chulalongkorn University.
 
 
 
-  
-### 📈 &nbsp;My activities
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
+  
+  
+### 📈 &nbsp;My activities
 
 <a href="https://github.com/rynparin">
   <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=rynparin&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
