@@ -1,6 +1,7 @@
-<p float="left">
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=40&duration=3000&color=9645F3&center=true&vCenter=true&width=800&height=200&lines=Heyyy!+I'm+Parin+%3C3">
-<img src="https://github.com/rynparin/rynparin/blob/master/devcard.svg" width="120" alt="Parin's Dev Card"/>
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=40&duration=3000&color=9645F3&center=true&vCenter=true&width=800&height=200&lines=Heyyy!+I'm+Parin+%3C3" width="80%">
+<img src="https://github.com/rynparin/rynparin/blob/master/devcard.svg" width="20%" alt="Parin's Dev Card"/>
 </p>
 
 - 📚 I'm a sophomore studying Computer Engineering at the Chulalongkorn University.
