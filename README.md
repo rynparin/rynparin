@@ -4,7 +4,7 @@
 <img src="https://github.com/rynparin/rynparin/blob/master/devcard.svg" width="15%" alt="Parin's Dev Card"/>
 </p>
 
-- 📚 I'm a junior studying Computer Engineering at the Chulalongkorn University.
+- 📚 I'm a senior studying Computer Engineering at Chulalongkorn University.
 - 🔭 I'm interested in Web development, Machine learning, and Data engineering.
 
 
