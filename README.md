@@ -6,12 +6,13 @@
 
 - 📚 I'm a passionate software engineer and a graduate of Computer Engineering from Chulalongkorn University.
 - 🔭 I'm interested in Web development, Machine learning, and Data engineering.
-
+- 🌍  I'm based in Bangkok
+- 🖥️  See my portfolio at [rynparin.dev](http://rynparin.dev)
+- ✉️  You can contact me at [ryn.parin@gmail.com](mailto:ryn.parin@gmail.com)
 
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
-
 
   
 ### 📈 &nbsp;My activities
